@@ -479,10 +479,7 @@ color: #2ecc71;
     .downArrow {
         margin-top: 60px;
     }
-    .b {
-        margin-left: 5%;
-        margin-right: 5%;
-    }
+    
     .container-b-text {
         margin-left: 5%;
         margin-right: 5%;
@@ -528,6 +525,10 @@ color: #2ecc71;
         margin-right: 5%;
     }
     #bbbbb {
+        display: block;
+
+    }
+    #bbbbbb {
         display: none;
     }
 }
